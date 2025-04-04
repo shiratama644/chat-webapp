@@ -1,5 +1,6 @@
 # chat-webapp
 
 ``
-222
+public float test = 10
+private bool game = false
 ``
